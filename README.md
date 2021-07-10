@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🤙SUMMER VACATION_PROJECT ➡
+🤙PROJECT ➡
 👪 NEXT_LEVEL
 👪 WHERE_WE_AT
 👨‍👨‍👧‍👦 JAMSIL_PROJECT
