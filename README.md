@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm HYERINI 👋
 
 <!--
 **HYERINI/HYERINI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![HYERINI's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerini)](https://github.com/anuraghazra/github-readme-stats)
+![HYERINI's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerini&show_icons=true&theme=radical)
+
