@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🤙SUMMER VACATION_PROJECT🤙
+👪 NEXT_LEVEL
+👪 WHERE_WE_AT
+👨‍👨‍👧‍👦 JAMSIL_PROJECT
 
-[![HYERINI's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerini)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![HYERINI's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerini&show_icons=true&theme=radical)
 
