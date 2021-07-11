@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 
 
-![HYERINI's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerini&show_icons=true&theme=gradient)
+![HYERINI's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerini&show_icons=true&theme=highcontast)
 
