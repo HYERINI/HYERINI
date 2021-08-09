@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🤙PROJECT ➡
-👪 NEXT_LEVEL
-👪 WHERE_WE_AT
-👨‍👨‍👧‍👦 JAMSIL_PROJECT
+👪 NEXT_LEVEL(크롤링&디스코드봇)
+👪 WHERE_WE_AT(카카오api지도띄우기)
+👨‍👨‍👧‍👦 JAMSIL_PROJECT(쿠키와 인증)
 
 ![Hyerini's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerini&show_icons=true&theme=radical)
 
