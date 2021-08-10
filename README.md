@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🤙PROJECT ➡
+🤙PROJECT 
 👪 NEXT_LEVEL(크롤링&디스코드봇) <br>
-👪 WHERE_WE_AT(카카오api지도띄우기)
-👨‍👨‍👧‍👦 JAMSIL_PROJECT(쿠키와 인증)
+👪 WHERE_WE_AT(카카오api지도띄우기) <br>
+👨‍👨‍👧‍👦 JAMSIL_PROJECT(쿠키와 인증) <br>
 
 ![Hyerini's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerini&show_icons=true&theme=radical)
 
