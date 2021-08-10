@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🤙PROJECT ➡
-👪 NEXT_LEVEL(크롤링&디스코드봇)
+👪 NEXT_LEVEL(크롤링&디스코드봇) <br>
 👪 WHERE_WE_AT(카카오api지도띄우기)
 👨‍👨‍👧‍👦 JAMSIL_PROJECT(쿠키와 인증)
 
