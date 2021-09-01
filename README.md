@@ -1,4 +1,4 @@
-
+### Hi I'm HYERINI 👋
 
 <!--
 **HYERINI/HYERINI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📖WEB📖 -> HTML, CSS, Django, JS
+### 📖WEB📖 -> HTML, CSS, Django, JS
 ====================================================================================================================
-<br>
-### Hi I'm HYERINI 👋
-<br>
+<br><br>
 ![Hyerini's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerini&show_icons=true&theme=radical)
 
 
