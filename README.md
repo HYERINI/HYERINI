@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📖WEB📖 -> HTML, CSS, Django, JS
 <br><br>
 ![Hyerini's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerini&show_icons=true&theme=radical)
 
