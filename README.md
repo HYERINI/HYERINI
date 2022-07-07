@@ -8,7 +8,7 @@
 https://simpleicons.org/
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=A0BAED&text=%20Hi,%20I'm%20Hye%20Rin%20🐣&height=300&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A0BAED&text=%20Hi,%20I'm%20Hye%20Rin%20🌻&height=300&fontSize=75)
 
 Hyerin's Blog [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://olbiizl.tistory.com/)](https://olbiizl.tistory.com/)
 
